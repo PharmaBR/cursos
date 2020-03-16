@@ -21,6 +21,7 @@
             <v-btn
               text
               href="http://www.gestoreducacional.com.br/EVENTOS/Inscricao/Ficha_Inscricao.asp?codEmpresa=147&CodGrupo=9&TipoEvento=EV"
+              target="_blank"
               >Inscrever-se</v-btn
             >
 
